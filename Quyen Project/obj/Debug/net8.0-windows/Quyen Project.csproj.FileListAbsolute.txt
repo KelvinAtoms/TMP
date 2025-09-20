@@ -1,0 +1,19 @@
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\bin\Debug\net8.0-windows\Quyen Project.exe
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\bin\Debug\net8.0-windows\Quyen Project.deps.json
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\bin\Debug\net8.0-windows\Quyen Project.runtimeconfig.json
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\bin\Debug\net8.0-windows\Quyen Project.dll
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\bin\Debug\net8.0-windows\Quyen Project.pdb
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen Project.csproj.GenerateResource.cache
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen Project.AssemblyInfoInputs.cache
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen Project.AssemblyInfo.cs
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen Project.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen Project.dll
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\refint\Quyen Project.dll
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen Project.pdb
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen Project.genruntimeconfig.cache
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\ref\Quyen Project.dll
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen_Project.frmBaiTap1.resources
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen_Project.Form2.resources
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen_Project.p1Calculator.resources
+C:\Users\User\Documents\VSC\C#\BT\FirstApp\Quyen Project\obj\Debug\net8.0-windows\Quyen_Project.Form3.resources
